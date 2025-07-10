@@ -1,7 +1,0 @@
-local Access = {
-    ["xxqLgnd_kRgITYgfK"] = "MTUxLjI0OS4xNzQuMTY3",
-    ["MzI3ODM0OTE0"] = "???",
-\
-}
-
-return Access
