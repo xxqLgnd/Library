@@ -501,6 +501,8 @@ local defaults; do
                     TextSize = library.options.fontsize;
                     TextStrokeTransparency = library.options.textstroke;
                     TextStrokeColor3 = library.options.strokecolor;
+					TextScaled = true; 
+                    TextWrapped = false;
                 });
                 Parent = self.container;
             });
